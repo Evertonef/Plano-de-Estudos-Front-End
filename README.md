@@ -36,7 +36,7 @@ Criando um Plano de Estudos para FrontEnd com GitHUb.
   - [ ] Parte 1 (  /   /  ).
   - [ ] Parte 2 (  /   /  ).
   
-  > Fazer os Cursos JavaScript
+> Fazer os Cursos JavaScript
 - [ ] [Primeiros passos com JavaScript] Total do Curso 3h: 3h/semana.
 - [ ] [Conhecendo Funções JavaScript] Total do Curso 2h: 2h/semana.
 - [ ] [Criando Objetos e Classes em JavaScript] Total do Curso 2h: 2h/semana.
@@ -46,7 +46,7 @@ Criando um Plano de Estudos para FrontEnd com GitHUb.
 - [ ] [Criando um Projeto com HTML/CSS para Listagem de Pokémon] Total do Curso 2h: 2h/semana.
 - [ ] [Dominando o Protocolo HTPP e Integrando com a PokeAPI] Total do Curso 4h: 4h/semana.
 - [ ] [Desafio de Projeto - Construindo uma Pokédex com JavaScript] Total do Curso 1h: 1h/semana.
-  > Fazer os Cursos PHP
-  > Fazer os Cursos ReactJS
-  > Fazer os Cursos Angular
-  > Fazer os Cursos NodeJS
+> Fazer os Cursos PHP
+> Fazer os Cursos ReactJS
+> Fazer os Cursos Angular
+> Fazer os Cursos NodeJS
